@@ -1,0 +1,42 @@
+ _____  ______ _____   _____ 
+|  __ \|  ____|  __ \ / ____|
+| |  | | |__  | |__) | |     
+| |  | |  __| |  _  /| |     
+| |__| | |____| | \ \| |____ 
+|_____/|______|_|  \_\\_____| http://derc.link
+
+DEEPSPACE EXPLORATION AND RESOURCES COMMUNITY
+MEMBER VIDEO GUIDELINES 
+REVISION 1
+
+///////////////////////////////////////////////////////////////////////////////////////////
+TITLE
+
+FORMAT                  🅳🅴🆁🅲 <Name>
+                        Include DERC identifier in front of title
+
+GENERAL                 🅳🅴🆁🅲 Meetup in Stanton with our friends
+MISSION REPORT          🅳🅴🆁🅲 Mission Report #1234 2951/01/01 - Mining in Crusader
+GUIDES                  🅳🅴🆁🅲 A guide how to mine in the Belt
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+DESCRIPTION
+
+INCLUDE THE FOLLOWING DESCRIPTION IN YOUR VIDEOS
+
+<Description of Video>
+---
+This video is brought to you by the DeepSpace Exploration and Resource Community
+
+We are a community with a common goal to explore new worlds and bring back the best resources to the people of the belt and our strategic partners. Our operations spans the entire Stanton System and beyond. Join us today and become a true belter.
+
+Net Link at https://derc.link
+Join us at https://robertsspaceindustries.com/orgs/DERC
+Discord: https://discord.gg/E5xZYwA9tE
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+PREVIEW
+
+PLEASE REVIEW TO THE VIDEOS/ SECTION TO OBTAIN TEMPLATES TO GENERATE PREVIEW IMAGES
